@@ -1,0 +1,1305 @@
+Build a complete, production-quality, highly polished responsive frontend website for a premium men's grooming business called:
+
+GVS PREMIUM BARBERSHOP
+
+The website must feel like a high-end luxury grooming/lifestyle brand, NOT a generic barber shop template.
+
+IMPORTANT:
+I have provided REAL media assets from the business:
+1. A short 6.4-second 1920x1080 video showing the actual GVS Premium Barbershop interior and entrance experience.
+2. A real exterior photo showing the actual GVS Premium Barbershop storefront and branding.
+
+USE THESE REAL BUSINESS ASSETS PROMINENTLY throughout the website.
+
+Do NOT replace the real business media with generic stock images when the supplied assets can be used.
+
+The goal of this website is to create an impressive frontend DEMO that I can show directly to the business owner and use as a sales presentation.
+
+The site should look expensive, modern, cinematic, interactive, smooth and professionally designed.
+
+==================================================
+1. DESIGN DIRECTION
+==================================================
+
+Overall visual style:
+
+- Luxury men's grooming
+- Dark cinematic
+- Premium
+- Modern
+- Sophisticated
+- Editorial
+- High-end hospitality
+- Strong typography
+- Cinematic transitions
+- Subtle motion
+- Premium micro-interactions
+- Lots of visual breathing room
+- Strong photography/video
+- Minimal but impactful UI
+
+Do NOT make it look like:
+- a basic barber template
+- a cheap WordPress website
+- an ordinary salon website
+- an overly colorful SaaS dashboard
+- a generic AI-generated landing page
+
+The design should feel closer to a luxury hotel, premium grooming brand or high-end lifestyle company.
+
+Suggested visual system:
+
+Background:
+- Near-black / charcoal
+- #080808
+- #111111
+- #161616
+
+Secondary surfaces:
+- warm dark gray
+- subtle glass/blur surfaces
+
+Accent:
+Use the actual GVS branding colors from the supplied storefront:
+- yellow/gold inspired by the GVS logo
+- white
+- subtle red accents inspired by the storefront
+
+Do NOT overuse yellow or red.
+Use them primarily for highlights, buttons, active states and branding.
+
+Typography:
+Use a premium modern sans-serif such as:
+- Inter
+- Manrope
+- Satoshi
+- Plus Jakarta Sans
+or another high-quality Google font.
+
+Use large editorial typography for major headings.
+
+Example:
+
+GROOM.
+RELAX.
+REDEFINE.
+
+Typography should be bold, elegant and highly readable.
+
+==================================================
+2. REAL MEDIA ASSETS
+==================================================
+
+Use the uploaded real GVS video as a major cinematic element.
+
+The video should:
+
+- autoplay
+- muted
+- loop
+- playsInline
+- have no visible browser controls
+- use object-fit: cover
+- load efficiently
+- work on desktop and mobile
+- have a dark cinematic overlay
+- include subtle gradient overlays for text readability
+
+The real exterior storefront photo should be used in:
+- About/brand section
+- location section or visual storytelling section
+- gallery
+- possibly a split-screen section
+
+Do NOT distort the real logo or storefront.
+
+Do NOT generate fake text on top of the storefront image.
+
+==================================================
+3. HERO SECTION
+==================================================
+
+Create an immersive full-screen hero.
+
+The actual GVS interior video should be the hero background.
+
+Hero structure:
+
+Top navigation over the video.
+
+Center/left editorial text:
+
+GVS
+PREMIUM BARBERSHOP
+
+GROOM.
+RELAX.
+REDEFINE.
+
+Supporting text:
+
+"Premium grooming, relaxation and lifestyle — all under one roof."
+
+Primary CTA:
+
+BOOK YOUR EXPERIENCE
+
+Secondary CTA:
+
+EXPLORE SERVICES
+
+Add a small scroll indicator at the bottom:
+
+SCROLL TO EXPLORE
+↓
+
+
+VIDEO TREATMENT:
+
+- Full viewport video
+- Dark gradient from bottom
+- Slight vignette
+- Subtle film grain
+- Smooth entrance animation
+- Text reveals line by line
+- Buttons fade/slide upward
+- Logo/brand appears first
+- Headline appears after a slight delay
+- CTA appears last
+
+The animation should be sophisticated and slow enough to feel premium.
+
+Do NOT use excessive bouncing animations.
+
+==================================================
+4. NAVBAR
+==================================================
+
+Create a transparent navbar over the hero.
+
+Left:
+
+GVS PREMIUM BARBERSHOP
+
+Center/right navigation:
+
+HOME
+SERVICES
+EXPERIENCE
+GALLERY
+ABOUT
+CONTACT
+
+Right:
+
+BOOK NOW
+
+Navbar behavior:
+
+At top:
+- transparent
+- white text
+
+After scrolling:
+- dark blurred background
+- backdrop-filter blur
+- slightly smaller height
+- subtle border-bottom
+
+Animate navbar smoothly.
+
+Mobile:
+
+Hamburger menu with full-screen or elegant slide-in navigation.
+
+==================================================
+5. INTRODUCTION
+==================================================
+
+After the hero, create a strong editorial statement.
+
+Large heading:
+
+MORE THAN A HAIRCUT.
+
+Then:
+
+IT'S AN EXPERIENCE.
+
+Supporting text:
+
+"GVS Premium Barbershop brings together professional grooming, relaxation and modern lifestyle experiences in one destination."
+
+Animate this section using scroll-triggered text reveals.
+
+Use large typography and lots of whitespace.
+
+==================================================
+6. GVS EXPERIENCE
+==================================================
+
+Create an immersive storytelling section.
+
+Heading:
+
+THE GVS EXPERIENCE
+
+Create four stages:
+
+01 — ARRIVE
+Step into a premium environment designed for comfort.
+
+02 — GROOM
+Experience professional hair, beard and grooming services.
+
+03 — RELAX
+Take a moment to unwind with spa and relaxation experiences.
+
+04 — REFRESH
+Enjoy the atmosphere, coffee and a moment for yourself.
+
+Use scroll-triggered animations.
+
+Possible layout:
+
+Sticky left heading
++
+Animated right-side content.
+
+As the user scrolls, each stage becomes active.
+
+Use subtle scale, opacity and translate animations.
+
+==================================================
+7. CINEMATIC REAL VIDEO SECTION
+==================================================
+
+Use the REAL GVS video again here.
+
+Create a large cinematic video block.
+
+Above:
+
+STEP INSIDE GVS
+
+Subheading:
+
+"Designed around grooming, comfort and relaxation."
+
+Video should occupy approximately 80-90% viewport width.
+
+Add subtle rounded corners.
+
+On hover:
+- very subtle scale effect
+- overlay becomes slightly lighter
+
+Add small floating label:
+
+GVS / THE EXPERIENCE
+
+Do not overdo effects.
+
+==================================================
+8. SERVICES SECTION
+==================================================
+
+Heading:
+
+THE ART OF GROOMING
+
+Create premium service cards.
+
+Categories:
+
+HAIR
+
+Signature Haircut
+Precision haircut and styling.
+
+Hair Styling
+Professional styling tailored to your look.
+
+BEARD
+
+Beard Sculpting
+Precision beard shaping and grooming.
+
+Hair + Beard
+Complete grooming experience.
+
+SPA & WELLNESS
+
+Head Massage
+Relaxing scalp and head treatment.
+
+Facial Treatment
+Refreshing facial grooming experience.
+
+Relaxation Treatment
+A dedicated experience designed to help you unwind.
+
+IMPORTANT:
+Do not invent exact prices.
+
+Use:
+"View Service"
+
+or
+
+"Discover"
+
+until actual prices are supplied.
+
+Cards should have:
+- image/video background where appropriate
+- dark overlay
+- elegant typography
+- hover image zoom
+- arrow animation
+- subtle border
+
+==================================================
+9. PREMIUM PACKAGES
+==================================================
+
+Heading:
+
+THE GVS SIGNATURE EXPERIENCES
+
+Create three premium package cards.
+
+PACKAGE 01
+THE CLASSIC
+
+Haircut
+Beard Styling
+Hair Wash
+
+PACKAGE 02
+THE EXECUTIVE
+
+Haircut
+Beard Styling
+Head Massage
+Coffee
+
+PACKAGE 03
+THE ULTIMATE
+
+Haircut
+Beard
+Facial
+Head Massage
+Coffee
+Relaxation Experience
+
+Do not add prices unless provided by the client.
+
+CTA:
+
+EXPLORE PACKAGES
+
+Make the middle package visually highlighted.
+
+==================================================
+10. COFFEE BAR
+==================================================
+
+Create a visually rich section.
+
+Heading:
+
+PAUSE.
+SIP.
+RELAX.
+
+Text:
+
+"Your grooming experience doesn't have to end at the barber chair."
+
+Feature:
+
+COFFEE BAR
+
+Use premium coffee imagery as supporting visual imagery.
+
+Show:
+- Coffee
+- Refreshments
+- Comfortable atmosphere
+
+CTA:
+
+DISCOVER THE COFFEE EXPERIENCE
+
+Do not invent a coffee menu or prices.
+
+==================================================
+11. SPA & WELLNESS
+==================================================
+
+Create a dark luxurious section.
+
+Heading:
+
+RESET YOUR ROUTINE.
+
+Text:
+
+"Take a moment away from the noise and enjoy a grooming experience designed around relaxation."
+
+Feature cards:
+
+HEAD MASSAGE
+FACIAL CARE
+RELAXATION
+PREMIUM GROOMING
+
+Use subtle image transitions.
+
+==================================================
+12. RELAXATION LOUNGE
+==================================================
+
+Heading:
+
+TAKE A MOMENT FOR YOURSELF.
+
+Use an elegant interior visual.
+
+Text:
+
+"A space to slow down, relax and enjoy the GVS experience."
+
+Use a large image with cinematic parallax.
+
+==================================================
+13. REAL STORE PHOTO SECTION
+==================================================
+
+Use the REAL storefront photo supplied by the business.
+
+Create an editorial split-screen section:
+
+Left:
+Actual storefront photo.
+
+Right:
+
+WELCOME TO GVS
+
+GVS PREMIUM BARBERSHOP
+
+"Where grooming meets comfort, style and experience."
+
+Add:
+
+BOOK YOUR EXPERIENCE
+
+Do NOT modify the actual storefront branding.
+
+Add subtle image reveal animation as the user scrolls.
+
+==================================================
+14. WHY CHOOSE GVS
+==================================================
+
+Create six elegant feature cards:
+
+01
+PREMIUM GROOMING
+
+02
+EXPERIENCED BARBERS
+
+03
+SPA & WELLNESS
+
+04
+RELAXATION EXPERIENCE
+
+05
+COFFEE BAR
+
+06
+PERSONALIZED SERVICE
+
+Use minimal line icons.
+
+Icons should be elegant and consistent.
+
+Do not use childish or colorful icons.
+
+==================================================
+15. GALLERY
+==================================================
+
+Create an immersive gallery.
+
+Heading:
+
+THE GVS SPACE
+
+Categories:
+
+ALL
+INTERIOR
+GROOMING
+SPA
+COFFEE
+EXPERIENCE
+
+Use the supplied real storefront photo and available real business media prominently.
+
+If additional placeholder images are needed for the demo, use premium barber/grooming imagery, but clearly structure the code so they can easily be replaced by the client's actual photos later.
+
+Gallery behavior:
+
+- masonry/editorial layout
+- hover zoom
+- image overlay
+- smooth lightbox
+- keyboard navigation
+- close button
+- mobile swipe support
+
+==================================================
+16. BEFORE / AFTER
+==================================================
+
+Create a premium transformation section.
+
+Heading:
+
+THE TRANSFORMATION
+
+Create an interactive before/after slider.
+
+Use placeholder content only if real transformation images are not available.
+
+Label:
+
+BEFORE
+AFTER
+
+Do not fabricate actual client results.
+
+Make it easy to replace with real images.
+
+==================================================
+17. BARBER TEAM
+==================================================
+
+Create:
+
+MEET THE GROOMING EXPERTS
+
+Team cards with:
+
+Photo
+Name
+Role
+Specialties
+
+Use placeholder names only in clearly editable demo data.
+
+Example:
+
+Senior Barber
+Master Grooming Specialist
+
+Make the data easy to replace later.
+
+==================================================
+18. TESTIMONIALS
+==================================================
+
+Create an elegant testimonial section.
+
+Heading:
+
+WHAT OUR CLIENTS SAY
+
+Create three testimonial cards.
+
+For demo purposes use placeholder testimonial text clearly structured in code so real reviews can replace them.
+
+Do not claim that placeholder reviews are genuine customer reviews.
+
+Use:
+★★★★★
+
+==================================================
+19. MEMBERSHIP
+==================================================
+
+Create a premium membership teaser.
+
+Heading:
+
+MAKE GVS PART OF YOUR ROUTINE.
+
+Cards:
+
+ESSENTIAL
+PREMIUM
+ELITE
+
+Do not invent specific benefits that the business has not confirmed.
+
+Use generic placeholder benefits and clearly make them editable.
+
+CTA:
+
+EXPLORE MEMBERSHIP
+
+==================================================
+20. GIFT EXPERIENCE
+==================================================
+
+Create:
+
+GIVE THE GVS EXPERIENCE.
+
+Text:
+
+"Because a great grooming experience makes a great gift."
+
+CTA:
+
+GIFT THE EXPERIENCE
+
+Make this section visually premium.
+
+Do not implement actual payment functionality in this demo.
+
+==================================================
+21. BOOKING SECTION
+==================================================
+
+Create a high-conversion appointment section.
+
+Heading:
+
+YOUR NEXT EXPERIENCE STARTS HERE.
+
+Form fields:
+
+Name
+Phone
+Email
+Service
+Preferred Date
+Preferred Time
+Preferred Barber
+Message
+
+Service dropdown:
+
+Haircut
+Beard
+Hair + Beard
+Spa
+Facial
+Massage
+Premium Package
+
+CTA:
+
+BOOK APPOINTMENT
+
+For this frontend demo, form submission can show a beautiful success state.
+
+Structure the code so the form can later connect to:
+- WhatsApp
+- backend API
+- booking platform
+- database
+
+Do not implement fake payment or fake booking confirmation.
+
+==================================================
+22. WHATSAPP CTA
+==================================================
+
+Add a floating WhatsApp button.
+
+Desktop:
+bottom-right floating circular button.
+
+Mobile:
+bottom-right.
+
+On click:
+
+"Hi, I'd like to book an appointment at GVS Premium Barbershop."
+
+Make the phone number easy to replace in one configuration file.
+
+==================================================
+23. LOCATION
+==================================================
+
+Heading:
+
+FIND GVS
+
+Display:
+
+GVS PREMIUM BARBERSHOP
+
+Address:
+[CLIENT TO PROVIDE]
+
+Phone:
+[CLIENT TO PROVIDE]
+
+WhatsApp:
+[CLIENT TO PROVIDE]
+
+Opening Hours:
+[CLIENT TO PROVIDE]
+
+Include a map placeholder/component that can later use Google Maps.
+
+Do NOT invent the actual address.
+
+==================================================
+24. FAQ
+==================================================
+
+Create elegant accordion FAQ.
+
+Questions:
+
+Do I need an appointment?
+
+Can I walk in?
+
+What grooming services do you offer?
+
+Do you offer spa services?
+
+Can I choose a specific barber?
+
+Do you offer packages?
+
+How can I reschedule my appointment?
+
+What payment methods do you accept?
+
+Keep answers editable.
+
+==================================================
+25. INSTAGRAM / SOCIAL SECTION
+==================================================
+
+Heading:
+
+FOLLOW THE GVS EXPERIENCE
+
+Create an editorial social media grid.
+
+Use placeholder images until the real Instagram content is available.
+
+CTA:
+
+FOLLOW US
+
+Make the social URL editable.
+
+==================================================
+26. FOOTER
+==================================================
+
+Premium dark footer.
+
+GVS PREMIUM BARBERSHOP
+
+GROOM.
+RELAX.
+REDEFINE.
+
+Navigation:
+
+Home
+Services
+Experience
+Gallery
+About
+Contact
+
+Services:
+
+Hair
+Beard
+Spa
+Facial
+Packages
+
+Contact:
+
+Phone
+WhatsApp
+Email
+Location
+
+Social:
+
+Instagram
+Facebook
+TikTok
+
+Bottom:
+
+© 2026 GVS Premium Barbershop
+All Rights Reserved.
+
+Privacy Policy
+Terms & Conditions
+
+==================================================
+27. ANIMATION SYSTEM
+==================================================
+
+This is extremely important.
+
+The website must feel alive.
+
+Use high-quality modern web animation.
+
+Preferred technologies:
+
+- Framer Motion if using React
+OR
+- GSAP if appropriate
+OR
+- CSS animations for lightweight interactions
+
+Use animations such as:
+
+1. Hero text reveal
+2. Fade-up sections
+3. Image reveal masks
+4. Scroll-triggered typography
+5. Staggered cards
+6. Image parallax
+7. Hover image zoom
+8. Button arrow movement
+9. Navbar transformation
+10. Smooth page transitions
+11. Gallery lightbox transitions
+12. Before/after slider
+13. Magnetic/subtle button interaction
+14. Cursor interaction on desktop where appropriate
+15. Number counter only where meaningful
+16. Sticky storytelling sections
+
+Animation philosophy:
+
+LUXURY = subtle + smooth + intentional.
+
+Do NOT:
+- bounce everything
+- rotate everything
+- use excessive neon effects
+- add random animations
+- make text fly everywhere
+- make the site feel like a gaming website
+
+Every animation must have a purpose.
+
+==================================================
+28. HERO VIDEO ANIMATION
+==================================================
+
+Make the supplied GVS video feel cinematic.
+
+On page load:
+
+1. Black screen
+2. GVS logo/text appears
+3. Video fades in
+4. Hero heading reveals line by line
+5. Supporting text fades in
+6. CTA buttons appear
+7. Scroll indicator starts moving subtly
+
+Use a dark gradient overlay.
+
+If possible:
+- slightly slow playback
+- subtle zoom from 1.02 to 1.0
+- cinematic vignette
+
+Do not modify the actual footage unnaturally.
+
+==================================================
+29. PAGE LOADING EXPERIENCE
+==================================================
+
+Create a premium loading animation.
+
+Example:
+
+GVS
+
+PREMIUM BARBERSHOP
+
+Loading line / progress animation.
+
+Keep it short.
+
+Maximum approximately 1-1.5 seconds.
+
+Do not make users wait unnecessarily.
+
+==================================================
+30. CUSTOM CURSOR
+==================================================
+
+Desktop only.
+
+Create a subtle custom cursor interaction.
+
+Normal:
+small circular cursor.
+
+On interactive elements:
+slightly expand.
+
+On gallery:
+show "VIEW"
+
+On video:
+show "PLAY"
+
+Keep it elegant.
+
+Disable custom cursor on mobile/tablet.
+
+==================================================
+31. SMOOTH SCROLL
+==================================================
+
+Implement smooth scrolling.
+
+Navigation links should scroll smoothly to sections.
+
+Use accessible anchor links.
+
+Do not break browser back/forward behavior.
+
+==================================================
+32. RESPONSIVE DESIGN
+==================================================
+
+This MUST be fully responsive.
+
+Desktop:
+1440px+
+Large cinematic layouts.
+
+Laptop:
+1024-1439px.
+
+Tablet:
+768-1023px.
+
+Mobile:
+320-767px.
+
+Mobile must NOT simply be a shrunk desktop.
+
+Create intentional mobile layouts.
+
+On mobile:
+- Hero video remains cinematic
+- Typography scales correctly
+- CTA buttons become easy to tap
+- Gallery becomes optimized
+- Navigation becomes hamburger
+- Horizontal overflow must be avoided
+- Video must not cause layout shifts
+- Forms become single column
+- Cards stack cleanly
+- Animations are reduced where necessary for performance
+
+==================================================
+33. ACCESSIBILITY
+==================================================
+
+Follow accessibility best practices.
+
+Include:
+
+- semantic HTML
+- proper heading hierarchy
+- aria labels
+- keyboard navigation
+- visible focus states
+- sufficient contrast
+- alt text
+- reduced motion support
+
+Respect:
+
+prefers-reduced-motion
+
+When reduced motion is enabled, simplify animations.
+
+==================================================
+34. PERFORMANCE
+==================================================
+
+This is a production-quality frontend.
+
+Optimize:
+
+- images
+- video
+- lazy loading
+- responsive images
+- code splitting where useful
+- animations
+- fonts
+
+The hero video should not destroy performance.
+
+Use poster image for the video.
+
+Lazy load below-the-fold images.
+
+Avoid unnecessary dependencies.
+
+==================================================
+35. SEO
+==================================================
+
+Add:
+
+Title:
+
+GVS Premium Barbershop | Premium Grooming & Relaxation
+
+Meta description:
+
+"Experience premium grooming, barbering, spa, relaxation and lifestyle services at GVS Premium Barbershop."
+
+Open Graph metadata.
+
+Semantic headings.
+
+Local business structured data should be prepared, but DO NOT invent the address, phone number, opening hours or other business details.
+
+Create editable configuration values for:
+
+businessName
+phone
+whatsapp
+email
+address
+openingHours
+instagram
+facebook
+tiktok
+
+==================================================
+36. TECHNICAL REQUIREMENTS
+==================================================
+
+Use:
+
+React
+TypeScript
+Vite
+
+Use a clean component architecture.
+
+Recommended structure:
+
+src/
+  components/
+    Navbar
+    Hero
+    Experience
+    Services
+    Packages
+    CoffeeBar
+    Spa
+    Relaxation
+    Gallery
+    BeforeAfter
+    Team
+    Testimonials
+    Membership
+    Booking
+    Location
+    FAQ
+    Social
+    Footer
+
+  data/
+    services
+    packages
+    team
+    testimonials
+    faq
+
+  config/
+    business
+
+Keep content/data separate from UI so the real client information can easily be inserted later.
+
+==================================================
+37. IMPORTANT CONTENT RULES
+==================================================
+
+DO NOT invent:
+
+- actual address
+- phone number
+- prices
+- staff names
+- genuine customer reviews
+- opening hours
+- membership prices
+- actual spa treatments not confirmed by the client
+- actual coffee menu
+- claims about awards
+- years of experience
+- certifications
+
+Use editable placeholders where information is missing.
+
+The website is a frontend sales demo, so visual quality is the priority.
+
+==================================================
+38. REAL GVS BRANDING
+==================================================
+
+The storefront photo shows the real GVS branding.
+
+Preserve the visual identity:
+
+GVS logo
+Yellow GVS lettering
+White "PREMIUM BARBERSHOP"
+Dark charcoal storefront
+Red architectural accents
+
+Use this identity throughout the website.
+
+Do not redesign the logo unless explicitly requested.
+
+==================================================
+39. PREMIUM MICRO-INTERACTIONS
+==================================================
+
+Buttons:
+
+BOOK NOW →
+Arrow moves slightly on hover.
+
+Cards:
+Image zoom 1.03x.
+
+Gallery:
+Cursor changes to VIEW.
+
+Navigation:
+Active section indicator.
+
+Images:
+Smooth reveal mask.
+
+Services:
+Hover reveals description.
+
+Packages:
+Middle package subtly highlighted.
+
+Booking:
+Focus states should feel premium.
+
+==================================================
+40. FINAL VISUAL EXPERIENCE
+==================================================
+
+The final result should feel like:
+
+"Luxury barber shop + boutique hotel + modern men's lifestyle brand."
+
+It should immediately communicate:
+
+PREMIUM
+GROOMING
+RELAXATION
+STYLE
+COMFORT
+EXPERIENCE
+
+The website should make the business owner feel:
+
+"This is my actual business, presented as a premium brand."
+
+==================================================
+41. FINAL CTA
+==================================================
+
+End the page with a huge cinematic CTA:
+
+READY FOR THE GVS EXPERIENCE?
+
+GROOM.
+RELAX.
+REDEFINE.
+
+[ BOOK YOUR EXPERIENCE ]
+
+Use the real GVS visual identity.
+
+==================================================
+42. IMPORTANT IMPLEMENTATION RULE
+==================================================
+
+Do not stop after creating a static mockup.
+
+Build the complete working frontend.
+
+All navigation links should work.
+
+All buttons should have appropriate interactions.
+
+Gallery must work.
+
+FAQ must work.
+
+Before/after slider must work.
+
+Mobile menu must work.
+
+Booking form must work on the frontend.
+
+Video must autoplay/mute/loop correctly.
+
+Animations must work.
+
+Responsive layouts must work.
+
+Use clean reusable components.
+
+Keep the code maintainable.
+
+Make all business-specific information easy to replace later.
+
+The final result should be ready to deploy as a frontend demo.
+
+Most importantly:
+
+MAKE IT LOOK OUTSTANDING.
+
+Do not make every section look the same.
+
+Use varying layouts, typography scale, image proportions, negative space, sticky sections, cinematic media and subtle motion to create a premium editorial experience.

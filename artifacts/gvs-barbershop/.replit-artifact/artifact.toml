@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "GVS Premium Barbershop"
+description = "A cinematic, responsive brand website for GVS Premium Barbershop, showcasing the real storefront and interior, grooming and wellness offerings, and interactive appointment inquiry experience."
+version = "1.0.0"
+id = "artifacts/gvs-barbershop"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 20523
+
+[services.development]
+run = "pnpm --filter @workspace/gvs-barbershop run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/gvs-barbershop", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/gvs-barbershop/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "20523"
+BASE_PATH = "/"
